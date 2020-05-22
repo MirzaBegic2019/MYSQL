@@ -1,0 +1,1 @@
+call korisnik.unos2('novi', 'korisnik', 'password', 1, 'korisnik');
